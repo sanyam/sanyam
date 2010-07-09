@@ -1,4 +1,4 @@
-Main branch
+Merged
 
 2009-06-08 19:57:52.5701 Debug Including file 'C:\Projects\global.nlog.config'
 2009-06-08 19:57:52.6013 Debug AddTargetsFromAssembly('NLog, Version=0.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c')
